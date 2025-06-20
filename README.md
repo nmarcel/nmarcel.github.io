@@ -1,6 +1,3 @@
-# nmarcel.github.io
-NMarcel projects
-
 # ThinkComposer #
 
 ## Comprehensive concept mapping and diagramming software beyond the graphics!
